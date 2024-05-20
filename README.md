@@ -4,11 +4,11 @@ I will have developed two classification models to fit the provided data and eva
 
 ### This challenge consists of the following subsections:
 
-1. Split the data into training and testing sets.
-2. Scale the features.
-3. Create a logistic regression model.
-4. Create a random forest model.
-5. Evaluate the models.
+  1. Split the data into training and testing sets.
+  2. Scale the features.
+  3. Create a logistic regression model.
+  4. Create a random forest model.
+  5. Evaluate the models.
 
 1. Split the Data into Training and Testing Sets
 Open the starter code notebook and complete the following steps
